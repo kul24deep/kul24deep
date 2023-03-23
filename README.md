@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kuldeep Kaur</h1>
 <h3 align="center">A passionate Technical Support Engineer from India</h3>
 
-- 👨‍💻 All of my projects are available at [kul24deep.github.io/](kul24deep.github.io/)
+- 👨‍💻 All of my projects are available at [https://kul24deep.github.io](kul24deep.github.io/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Python, Linux**
 
 - 📫 How to reach me **kaur24kuldeep@gmail.com**
 
-- 📄 Know about my experiences [kul24deep.github.io/](kul24deep.github.io/)
+- 📄 Know about my experiences [https://kul24deep.github.io/](kul24deep.github.io/)
 
 - ⚡ Fun fact **Code and perfectionist with extra-ordinary creative thinking**
 
