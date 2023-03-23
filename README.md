@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kuldeep Kaur</h1>
 <h3 align="center">A passionate Technical Support Engineer from India</h3>
 
+<p>Aspiring Technical support engineer, customer-oriented and self-driven adept at providing professional technical support to clients, monitoring products and services with developing detailed technical guides. Offers excellent technological expertise, analytical and problem solving alongwith team management skills.</p>
+
 - 👨‍💻 All of my projects are available at [kul24deep](kul24deep.github.io/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Python, Linux**
