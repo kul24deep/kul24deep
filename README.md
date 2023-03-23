@@ -5,6 +5,8 @@
 
 <h4 style="margin-top: 10px">Offers excellent technological expertise, analytical and problem solving alongwith team management skills.</h4>
 
+<div><img src="https://cdn.dribbble.com/users/4412543/screenshots/11086928/media/c23debeaf4452826b6883c90b771e5a8.gif"></img></div>
+
 - 👨‍💻 All of my projects are available at [kul24deep](kul24deep.github.io/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Python, Linux**
