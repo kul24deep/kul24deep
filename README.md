@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kuldeep Kaur</h1>
-<h3 align="center">A passionate Technical Support Engineer from India</h3>
+<h3 align="center">A passionate Information Security Engineer from India</h3>
 
-<h4 style="margin-top: 10px">Aspiring Technical support engineer, customer-oriented and self-driven adept at providing professional technical support to clients, monitoring products and services with developing detailed technical guides.</h4>
+<h4 style="margin-top: 10px">Graduated in Information Science Engineer with Experienced in Data Loss Prevention (MS 365), specializing in policy creation, rigorous testing, and incident escalation reporting.</h4>
 
-<h4 style="margin-top: 10px">Offers excellent technological expertise, analytical and problem solving alongwith team management skills.</h4>
+<h4 style="margin-top: 10px">Proficient in managing the software development lifecycle, from planning to testing, and adept at crafting essential project documents using MS Office tools. Skilled in SCRUM facilitation, ensuring daily progress updates and weekly project matrix delivery. Offers excellent technological expertise, analytical and problem solving along with team management skills. Additionally, actively engaged in fostering cross-cultural exchange through participation in Japanese language learning initiatives.</h4>
 
 <div align="center" dir="auto">
 <a target="_blank" rel="noopener noreferrer nofollow" ><img src="https://media.tenor.com/5LBmDW-7cHAAAAAC/career-woman-multitasking.gif" width="60%" height="400px data-animated-image="" data-canonical-src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" style="max-width: 100%;"></a>
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kaur24kuldeep@gmail.com**
 
-- 📄 Know about my education background and work experiences [kul24deep](https://drive.google.com/file/d/1FXRafcNYDKMtFUYw1yyc07Q2lpxriYH_/view?usp=share_link)
+- 📄 Know about my education background and work experiences [kul24deep](https://drive.google.com/file/d/1W1Gu_e6MchE0I7YAV7mFglXkYGeRY72D/view?usp=sharing))
 
 - ⚡ Fun fact **Code and perfectionist with extra-ordinary creative thinking**
 
