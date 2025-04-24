@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kuldeep Kaur</h1>
-<h3 align="center">An Information Security Engineer from India</h3>
+<h3 align="center">An Data Analyst from India</h3>
 
 <h4 style="margin-top: 10px">Graduated in Information Science Engineer with Experienced in Data Loss Prevention (MS 365), specializing in policy creation, rigorous testing, and incident escalation reporting.</h4>
 
