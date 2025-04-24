@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kuldeep Kaur</h1>
 <h3 align="center">An Data Analyst from India</h3>
 
-<h4 style="margin-top: 10px">Graduated in Information Science Engineer with Experienced in Data Loss Prevention (MS 365), specializing in policy creation, rigorous testing, and incident escalation reporting.</h4>
+<h4 style="margin-top: 10px"> Bachelor’s degree in Computer Science and currently pursuing an MBA. Experienced in Data Loss Prevention (MS 365), specializing in policy creation, rigorous testing, and incident escalation reporting and analysis along with Product Mapping and analysis.</h4>
 
-<h4 style="margin-top: 10px">Proficient in managing the software development lifecycle, from planning to testing, and adept at crafting essential project documents using MS Office tools. Skilled in SCRUM facilitation, ensuring daily progress updates and weekly project matrix delivery.</h4> 
+<h4 style="margin-top: 10px">Skilled in Microsoft Office Suite with excellent communication. Proven track record of collaborating with cross-functional teams and optimizing workflows.Proficient in managing the software development lifecycle, from planning to testing, and adept at crafting essential project documents using MS Office tools. Skilled in SCRUM facilitation, ensuring daily progress updates and weekly project matrix delivery.</h4> 
   
 <h4 style="margin-top: 10px"> Offers excellent technological expertise, analytical and problem solving along with team management skills. Additionally, actively engaged in fostering cross-cultural exchange through participation in Japanese language learning initiatives.</h4>
 
