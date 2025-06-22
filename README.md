@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [kul24deep](https://kul24deep.github.io/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Python, Linux**
+- 💬 Ask me about **HTML, CSS, Python, SQL, JIRA, Japanese (Business Proficiency) - JLPT N3**
 
 - 📫 How to reach me **ms.kuldeepkaur24@gmail.com**
 
