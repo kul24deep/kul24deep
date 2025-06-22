@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kuldeep Kaur</h1>
-<h3 align="center">An Data Analyst from India</h3>
+<h3 align="center">An Product Analyst from India</h3>
 
-<h4 style="margin-top: 10px"> Bachelor’s degree in Computer Science and currently pursuing an MBA. Experienced in Data Loss Prevention (MS 365), specializing in policy creation, rigorous testing, and incident escalation reporting and analysis along with Product Mapping and analysis.</h4>
+<h4 style="margin-top: 10px"> Analytical and bilingual (English-Japanese) Product Analyst with a background in computer science and 4+ years of cross-functional experience across product data mapping, localization, technical documentation, and incident analysis. Led SCRUM meetings and managed full SDLC lifecycles at Sony India. Adept at translating user needs into actionable product requirements and roadmaps. Skilled in leveraging SQL, Python, and Excel for data-driven decision making. Experienced in Agile environments, with a strong foundation in user-centered design and stakeholder collaboration. Currently pursuing an MBA with a focus on AI in Business and Product Management.</h4>
 
 <h4 style="margin-top: 10px">Skilled in Microsoft Office Suite with excellent communication. Proven track record of collaborating with cross-functional teams and optimizing workflows.Proficient in managing the software development lifecycle, from planning to testing, and adept at crafting essential project documents using MS Office tools. Skilled in SCRUM facilitation, ensuring daily progress updates and weekly project matrix delivery.</h4> 
   
-<h4 style="margin-top: 10px"> Offers excellent technological expertise, analytical and problem solving along with team management skills. Additionally, actively engaged in fostering cross-cultural exchange through participation in Japanese language learning initiatives.</h4>
+<h4 style="margin-top: 10px"> Additionally, actively engaged in fostering cross-cultural exchange through participation in Japanese language tranlations and learning initiatives.</h4>
 
 <div align="center" dir="auto">
 <a target="_blank" rel="noopener noreferrer nofollow" ><img src="https://media.licdn.com/dms/image/D4E12AQHs2av0jpbtYA/article-cover_image-shrink_720_1280/0/1681372887989?e=2147483647&v=beta&t=d_6Al3_Bt04WL9m0stIsjiPtrmt4cHouHAWzyrKrM-o" width="60%" height="400px data-animated-image="" data-canonical-src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" style="max-width: 100%;"></a>
@@ -15,11 +15,11 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Python, Linux**
 
-- 📫 How to reach me **kaur24kuldeep@gmail.com**
+- 📫 How to reach me **ms.kuldeepkaur24@gmail.com**
 
 - 📄 Know about my education background and work experiences [kul24deep](https://drive.google.com/file/d/1W1Gu_e6MchE0I7YAV7mFglXkYGeRY72D/view?usp=sharing))
 
-- ⚡ Fun fact **Code and perfectionist with extra-ordinary creative thinking**
+- ⚡ Fun fact **Analytical skills, perfectionist with extra-ordinary creative thinking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
